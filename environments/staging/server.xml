@@ -12,7 +12,6 @@
       <user name="Admin" password="websphere"/>
       <user name="User1" password="websphere1"/>
       <user name="User2" password="websphere2"/>
-      <user name="User3" password="websphere3"/>
       <user name="user1" password="security"/>
     </basicRegistry>
 
